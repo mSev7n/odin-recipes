@@ -5,5 +5,3 @@
 hello Seven here
 i am currently learning html from the odin project 
 this is simply a task i was assigned
-=======
->>>>>>> 2f69dda3290573ad95074d55a26ba405050bd261

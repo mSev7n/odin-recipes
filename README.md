@@ -4,3 +4,6 @@
 hello Seven here
 i am currently learning html from the odin project 
 this is simply a task i was assigned
+My current project is : creating a recipe website
+
+When i'm done with my project i will have improved and demonstrated my html skills

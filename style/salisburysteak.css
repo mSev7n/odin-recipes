@@ -1,0 +1,29 @@
+body {
+    color: dimgray;
+}
+
+.firstp {
+    background-color: rgba(47, 79, 79, 0.192);
+}
+
+#firsth1 {
+    font-family: cursive;
+    font-weight: bold;
+}
+
+#ul1 {
+    list-style: none;
+}
+
+.li1 {
+    display: inline-block;
+    margin-right: 15px;
+    background-color: rgba(105, 105, 105, 0.144);
+   
+}
+
+button {
+    background-color: rgba(105, 105, 105, 0.144);
+    padding: 15px 32px;
+    margin: 4px 2px;
+}

@@ -9,6 +9,12 @@ When i'm done with my project i will have improved and demonstrated my html skil
 
 # Odin Recipes 🍲
 
+# Odin Recipes 🍲
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://mSev7n.github.io/odin-recipes/)
+![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
+
+
 A basic HTML project built as part of [The Odin Project] foundations course. This project focuses on creating a simple recipe website using only HTML.
 
 ## 📚 Project Description

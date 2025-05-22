@@ -4,6 +4,30 @@
 hello Seven here
 i am currently learning html from the odin project 
 this is simply a task i was assigned
-My current project is : creating a recipe website
-
 When i'm done with my project i will have improved and demonstrated my html skills
+
+
+# Odin Recipes 🍲
+
+A basic HTML project built as part of [The Odin Project] foundations course. This project focuses on creating a simple recipe website using only HTML.
+
+## 📚 Project Description
+
+This website consists of a homepage and multiple recipe pages. It demonstrates the use of HTML boilerplate, elements like headings, paragraphs, links, images, and lists to structure content clearly.
+
+## 🧩 Features
+
+- Clean homepage linking to individual recipes
+- Structured use of HTML tags (h1-h3, p, ul, ol, a, img)
+- Multiple recipe pages (each with ingredients and steps)
+- Internal linking between pages
+
+## 🔧 Technologies Used
+
+- HTML5
+
+## 💡 What I Learned
+
+- How to set up and link multiple HTML pages
+- Building semantic and accessible web structure
+- Practice with image embedding and relative paths

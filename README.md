@@ -9,9 +9,8 @@ When i'm done with my project i will have improved and demonstrated my html skil
 
 # Odin Recipes 🍲
 
-# Odin Recipes 🍲
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://mSev7n.github.io/odin-recipes/)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://mSev7n.github.io/odin-recipes/)
 ![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 
